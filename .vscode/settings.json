@@ -1,0 +1,14 @@
+{
+    "sonarlint.pathToCompileCommands": "${workspaceFolder}/compile_commands.json",
+    "files.associations": {
+        "sdltools.h": "c",
+        "math.h": "c",
+        "tools.h": "c",
+        "colors.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "harvest.h": "c",
+        "hole.h": "c",
+        "change_turn": "c"
+    }
+}
